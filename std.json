@@ -1,0 +1,52 @@
+{
+  "Student": [
+    {
+      "id": "22ae",
+      "name": "Devu",
+      "email": "devu@gmail.com",
+      "department": "Computer Engineering",
+      "enroll": "3435353556",
+      "contact": "4143435566",
+      "subject1": "60",
+      "subject2": "50",
+      "subject3": "30",
+      "age": "21"
+    },
+    {
+      "id": "d293",
+      "name": "asd",
+      "email": "asd@tghhr",
+      "department": "Information Technology",
+      "enroll": "3423233455",
+      "contact": "561845555",
+      "subject1": "45",
+      "subject2": "45",
+      "subject3": "45",
+      "age": "18"
+    },
+    {
+      "id": "3a80",
+      "name": "hjkh",
+      "email": "hjkh@drtdg",
+      "department": "Information Technology",
+      "enroll": "4565467757",
+      "contact": "467575777",
+      "subject1": "56",
+      "subject2": "34",
+      "subject3": "67",
+      "age": "13"
+    },
+    {
+      "id": "5701",
+      "name": "ggggrr",
+      "email": "dhdhd@yrhfr",
+      "department": "Mechanical Engineering",
+      "enroll": "354557567",
+      "contact": "256456677",
+      "subject1": "77",
+      "subject2": "35",
+      "subject3": "35",
+      "age": "21"
+    }
+  ]
+}
